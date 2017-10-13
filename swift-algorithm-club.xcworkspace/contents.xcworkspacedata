@@ -587,6 +587,19 @@
       </Group>
    </Group>
    <Group
+      location = "container:"
+      name = "Articulation Points - Bridges">
+      <FileRef
+         location = "group:Articulation Points-Bridges/ArticulationPoints-Bridges.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Articulation Points-Bridges/ArticulationPoints-Bridges.swift">
+      </FileRef>
+      <FileRef
+         location = "group:Articulation Points-Bridges/README.markdown">
+      </FileRef>
+   </Group>
+   <Group
       location = "group:Brute-Force String Search"
       name = "Brute-Force String Search">
       <FileRef
